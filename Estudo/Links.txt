@@ -1,0 +1,5 @@
+https://github.com/esp8266/arduino
+https://www.robocore.net/loja/iot/modulo-wifi-esp8266#documentacao
+https://www.youtube.com/watch?v=1jA9pFYxPQ0
+https://www.embarcados.com.br/modulo-esp8266/
+https://www.filipeflop.com/blog/guia-do-usuario-do-esp8266/
