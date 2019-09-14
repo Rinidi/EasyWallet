@@ -1,0 +1,6 @@
+[submodule "Aplicação Android/Aplicação"]
+	path = Aplicação Android/Aplicação
+	url = https://github.com/LucasGitDev/TCC.git
+[submodule "Aplicação Android/TCC"]
+	path = Aplicação Android/TCC
+	url = https://github.com/LucasGitDev/TCC.git
